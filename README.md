@@ -11,7 +11,7 @@ Clone the GitHub repository and create a Django admin interface.
 Write HTML and CSS code for designing book cover page and execute them.
 
 ## Code:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,10 +120,10 @@ SEC
 ```
 
 ## Output:
-![Output](./OUT.png)
+![Output](cover-page-design/OUT.png)
 
 ## HTML Validator
-![HTML Validator](./valid.png)
+![HTML Validator](cover-page-design/valid.png)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully
