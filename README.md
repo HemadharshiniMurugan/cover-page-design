@@ -120,10 +120,10 @@ SEC
 ```
 
 ## Output:
-![Output](cover-page-design/OUT.png)
+![Output](hema/static/images/OUT.png)
 
 ## HTML Validator
-![HTML Validator](cover-page-design/valid.png)
+![HTML Validator](hema/static/images/valid.png)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully
